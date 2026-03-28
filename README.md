@@ -16,6 +16,5 @@ The system leverages **LLM-powered agents** to collaboratively perform tasks suc
 - CrewAI  
 - LangChain (if used)  
 - OpenAI API / LLMs  
-- APIs / Tools (if any)  
 
 ---
